@@ -1,0 +1,11 @@
+/dwr/interface/companyService.js
+/dwr/interface/coreService.js
+/dwr/interface/domainListService.js
+/dwr/interface/quartzService.js
+/dwr/interface/reportService.js
+/dwr/interface/resourceService.js
+/dwr/interface/securityService.js
+/dwr/interface/surveyService.js
+/dwr/interface/tagService.js
+/dwr/interface/versionControlService.js
+/dwr/interface/workflowService.js
