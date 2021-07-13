@@ -17,7 +17,7 @@ class Coffe():
 
     def is_alive(self):
         try:
-            req = requests.get(self.url, verify=False, timeout=5, headers={"User-Agent":"Firefoxt0x1n4K ~"})
+            req = requests.get(self.url, verify=False, timeout=5, headers={"User-Agent":" Firefox ( github.com/rodnt ) 0189274.1817"})
             if req.status_code != 200:
                 print(f"[ERROR] ~> Something went wrong while request to {self.url}")
                 return True
