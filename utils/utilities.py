@@ -12,8 +12,8 @@ def parse_url(url):
 def banner():
     proxy = """ 
  
- author: rodnt
- twitter: @rodntt
+ author: inc0gbyt3
+ twitter: @incogbyte
  description: Small tool to exploit misconfigured mmpublish instances
  usage: python3 main.py --url https://mmpublish.com
  __   __  __   __  _______  _______  _______  _______  __    _ 
